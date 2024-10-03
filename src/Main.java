@@ -8,6 +8,7 @@ public class Main {
             System.out.println("Ingrese el elmento " + (i+1));
             numeros[i] = scaner.nextInt();
         }
+
         printNumbs(numeros);
     }
 
