@@ -22,6 +22,5 @@ public class Main {
         perro2.comer("Pollo", 40);
         System.out.println(perro2.ladrar());
 
-
     }
 }
