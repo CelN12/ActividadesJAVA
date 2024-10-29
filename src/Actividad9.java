@@ -9,5 +9,6 @@ public class Actividad9 {
         System.out.println("Inserte el peso de la persona en kg");
         persona.setPeso(scaner.nextDouble());
         persona.getIMC();
+
     }
 }
