@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Actividad8 {
     public static void main(String[] args) {
         Perro perro1 = new Perro();
         Perro perro2 = new Perro();
